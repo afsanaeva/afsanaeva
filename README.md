@@ -7,13 +7,12 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ... Self-learner
 - 🌱 I’m currently learning ...(MERN Stack) MogoDb, Express Js, React Js, Node Js
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...NodeJs
+- 🤔 I’m looking for help with ...React Js
 - 💬 Ask me about ...Anything regarding programming 
 - 📫 How to reach me: ... [linkedin](https://www.linkedin.com/in/afsana-akter-eva-b35109149/)
 - 😄 Pronouns: ... She/Her
-- ⚡ Fun fact: ...
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Shakib448" alt="muktadir" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=afsanaeva" alt="afsanaeva" /> </p>
 
 
 ### Connect with me:
@@ -36,7 +35,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br/>
 <br/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afsanaeva8&layout=compact&hide=html" alt="afsanaeva" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afsanaeva&layout=compact&hide=html" alt="afsanaeva" /></p>
 
 <br />
 <br />
@@ -44,6 +43,5 @@ Here are some ideas to get you started:
 
 ---
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=afsanaeva&show_icons=true&hide_border=true" />
-
 
 
