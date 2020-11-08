@@ -10,10 +10,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...React Js
 - 💬 Ask me about ...Anything regarding programming 
 - 📫 How to reach me: ... [linkedin](https://www.linkedin.com/in/afsana-akter-eva-b35109149/)
-- 😄 Pronouns: ... She/Her
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=afsanaeva" alt="afsanaeva" /> </p>
-
 
 ### Connect with me:
 
