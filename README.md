@@ -1,9 +1,7 @@
 ### Here is what I'm working on! 👋
 
 - 🔭 I’m currently working as a Software Developer at Fanfare Bangladesh.
-- 🌱 I’m currently wroking on MogoDb, NestJs,NextJs, React Js, Typescript
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ..NestJs
+- 🌱 I’m currently working on NextJs, React Js, TilwindCSS, Material UI, Redux Toolkit, Typescript
 - 💬 Ask me about ...Anything regarding programming 
 - 📫 How to reach me: ... [linkedin](https://www.linkedin.com/in/afsana-akter-eva-b35109149/)
 
