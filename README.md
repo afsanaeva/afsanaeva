@@ -1,7 +1,7 @@
 ### Here is what I'm working on! 👋
 
-- 🔭 I’m currently working as a Software Developer at Fanfare Bangladesh.
-- 🌱 I’m currently working on NextJs, React Js, TilwindCSS, Material UI, Redux Toolkit, Typescript
+- 🔭 I’m currently working as a Software Developer at JB Connected Ltd.
+- 🌱 I’m currently working on NextJs, AWS, Amplify, React Js, Graphql, TailwindCSS, Material UI, Redux Toolkit, Typescript
 - 💬 Ask me about ...Anything regarding programming 
 - 📫 How to reach me: ... [linkedin](https://www.linkedin.com/in/afsana-akter-eva-b35109149/)
 
